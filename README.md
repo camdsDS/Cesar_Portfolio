@@ -1,5 +1,4 @@
-# CésarSouza_Portfolio  
-# Projeto 1: Modelo preditivo de sobreviventes do Titanic - Kaggle's Competition:  [Titanic_from_Kaggle_Regressão_logística.ipynb](/HelloWorld.ipynb)
+# Projeto 1: Modelo preditivo de sobreviventes do Titanic - Kaggle's Competition:  [Titanic_from_Kaggle_Regressão_logística.ipynb](/Titanic_from_Kaggle_Regressão_logística.ipynb)
 
 * Este é o primeiro modelo que desenvolvi como cientista de dados.
 * Modelo feito com Google Colab - Python;

@@ -1,4 +1,4 @@
-[# Projeto 1: Modelo preditivo de sobreviventes do Titanic - Kaggle's Competition]  (https://github.com/camdsDS/Cesar_Portfolio/blob/main/Titanic_from_Kaggle_Regress%C3%A3o_log%C3%ADstica.ipynb)
+[# Projeto 1: Modelo preditivo de sobreviventes do Titanic - Kaggle's Competition] (https://github.com/camdsDS/Cesar_Portfolio/blob/main/Titanic_from_Kaggle_Logistic_regression.ipynb)
 
 * Este é o primeiro modelo que desenvolvi como cientista de dados.
 * Modelo feito com Google Colab - Python;

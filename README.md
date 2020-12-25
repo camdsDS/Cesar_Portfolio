@@ -11,7 +11,7 @@
 		*  Missing;
 		* Outliers;
 		* Inconsistentes;
-		* Transformação de dados categóricos em numéricos (com get_dummies)
-		* Normalização de dados
-	* Divisão da base de dados teste em subgrupo de desenvolvimento e subgrupo de validação (70% e 30%, respectivamente)
+		* Transformação de dados categóricos em numéricos (com get_dummies);
+		* Normalização de dados.
+	* Divisão da base de dados teste em subgrupo de desenvolvimento e subgrupo de validação (70% e 30%, respectivamente).
 	* Regressão logística.

@@ -4,7 +4,7 @@
 
 * Para elaborar este modelo realizei:
 	* Tratamento de dados:
-		* Missing (com função para automatização);
+		* Missing (com função para automação);
 		* Outliers;
 		* Inconsistentes;
 		* Transformação de dados categóricos em numéricos;

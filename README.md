@@ -4,9 +4,7 @@
 
 * Para elaborar este modelo realizei:
 	* Tratamento de dados:
-		* Missing (com função para automação);
-		* Outliers;
-		* Inconsistentes;
+		* Missing;
 		* Transformação de dados categóricos em numéricos;
 		* Normalização de dados.
 	* Divisão da base de dados teste em subgrupo de desenvolvimento e subgrupo de validação (70% e 30%, respectivamente).

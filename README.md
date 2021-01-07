@@ -22,5 +22,5 @@
 		* Inconsistentes;
 		* Transformação de dados categóricos em numéricos;
 		* Normalização de dados.
-	* Divisão da base de dados teste em subgrupo de desenvolvimento e subgrupo de validação (70% e 30%, respectivamente).
+	* Divisão da base de dados teste em subgrupo de desenvolvimento e subgrupo de validação (80% e 20%, respectivamente).
 * Algoritmo usado: Regressão logística.

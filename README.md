@@ -23,10 +23,9 @@
 		* Normalização de dados (com MinMaxScaler).
 	* Divisão da base de dados teste em subgrupo de desenvolvimento e subgrupo de validação (80% e 20%, respectivamente) - train_test_split.
 	* Cross_validate para escolher o melhor modelo entre LogisticRegression, GradientBoostingClassifier e RandomForestClassifier.
-	* GridSearchCV.
 	* Score com roc_auc_score.
 		* roc_score_desenv: 0.8993933939939339
 		* roc_score_valid: 0.8033916269210387
 		* score_kaggle: 0.77272
 	* Apresentação de gráfico (com seaborn) das variáveis utilizadas e os valores que representam respectivamente a importância delas no modelo.
-* Algoritmo usado: GradientBoostingClassifier.
+* Algoritmo usado: GradientBoostingClassifier com GridSearchCV.

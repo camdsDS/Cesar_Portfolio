@@ -10,17 +10,20 @@
 	* Divisão da base de dados teste em subgrupo de desenvolvimento e subgrupo de validação (70% e 30%, respectivamente).
 * Algoritmo usado: RandomForestRegressor com GridSearchCV.
 
-[# Projeto 2: Modelo preditivo de sobreviventes do Titanic - Kaggle's Competition](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Titanic_from_kaggle_Logistic_regression.ipynb)
+[# Projeto 2: Modelo preditivo de sobreviventes do Titanic - Kaggle's Competition](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Titanic_from_kaggle_GradientBoostingClassifier.ipynb)
 
-* Este é o primeiro modelo que desenvolvi como cientista de dados.
 * Modelo feito com Google Colab - Python.
 
 * Para elaborar este modelo realizei:
 	* Tratamento de dados:
-		*  Missing;
+		* Missing;
 		* Outliers;
 		* Inconsistentes;
-		* Transformação de dados categóricos em numéricos;
-		* Normalização de dados.
-	* Divisão da base de dados teste em subgrupo de desenvolvimento e subgrupo de validação (80% e 20%, respectivamente).
-* Algoritmo usado: Regressão logística.
+		* Transformação de dados categóricos em numéricos (com get_dummies);
+		* Normalização de dados (com MinMaxScaler).
+	* Divisão da base de dados teste em subgrupo de desenvolvimento e subgrupo de validação (80% e 20%, respectivamente) - train_test_split.
+	* Cross_validate para escolher o melhor modelo entre LogisticRegression, GradientBoostingClassifier e RandomForestClassifier.
+	* GridSearchCV.
+	* Score com roc_auc_score.
+	* Apresentação de gráfico (com seaborn) das variáveis utilizadas e os valores que representam respectivamente a importância delas no modelo.
+* Algoritmo usado: GradientBoostingClassifier.

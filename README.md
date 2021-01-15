@@ -25,5 +25,7 @@
 	* Cross_validate para escolher o melhor modelo entre LogisticRegression, GradientBoostingClassifier e RandomForestClassifier.
 	* GridSearchCV.
 	* Score com roc_auc_score.
+		* roc_score_desenv: 0.8993933939939339
+		* roc_score_valid: 0.8033916269210387
 	* Apresentação de gráfico (com seaborn) das variáveis utilizadas e os valores que representam respectivamente a importância delas no modelo.
 * Algoritmo usado: GradientBoostingClassifier.

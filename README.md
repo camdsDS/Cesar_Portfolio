@@ -40,7 +40,7 @@
 
 * Algoritmo de clusterização.
 * Modelo feito com Google Colab - Python.
-* Os dados do dataset usado para elaborar este modelo são do curso "Machine Learning A-Z™: Hands-On Python & R In Data Science" da Udemy
+* Os dados do dataset usado para elaborar este modelo são do curso "Machine Learning A-Z™: Hands-On Python & R In Data Science" da Udemy.
 
 * Para elaborar este modelo realizei:
 	* Elbow method para encontrar a melhor quantidade de clusters.

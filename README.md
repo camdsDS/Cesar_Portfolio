@@ -1,3 +1,6 @@
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/camdsDS)](https://github.com/camdsDS)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camds/)](https://www.linkedin.com/in/camds/)
+
 [# Projeto 1: Modelo preditivo de preço de casas - Kaggle's Competition](https://github.com/camdsDS/Cesar_Portfolio/blob/main/HousePrices_from_Kaggle_RandomForestRegressor.ipynb)
 
 * Algoritmo de regressão.
@@ -33,10 +36,11 @@
 	* Apresentação de gráfico (com seaborn) das variáveis utilizadas e os valores que representam respectivamente a importância delas no modelo.
 * Algoritmo usado: GradientBoostingClassifier com GridSearchCV.
 
-[# Projeto 3: Modelo para clusterização de clientes](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Mall_Customers_K_Means_clustering.ipynb)
+[# Projeto 3: Modelo para clusterização de clientes de um shopping](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Mall_Customers_K_Means_clustering.ipynb)
 
 * Algoritmo de clusterização.
 * Modelo feito com Google Colab - Python.
+* Os dados do dataset usado para elaborar este modelo são do curso "Machine Learning A-Z™: Hands-On Python & R In Data Science" da Udemy
 
 * Para elaborar este modelo realizei:
 	* Elbow method para encontrar a melhor quantidade de clusters.

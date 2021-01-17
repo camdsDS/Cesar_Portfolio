@@ -1,6 +1,6 @@
 [# Projeto 1: Modelo preditivo de preço de casas - Kaggle's Competition](https://github.com/camdsDS/Cesar_Portfolio/blob/main/HousePrices_from_Kaggle_RandomForestRegressor.ipynb)
 
-# Algoritmo de regressão.
+* Algoritmo de regressão.
 * Modelo feito com Google Colab - Python.
 
 * Para elaborar este modelo realizei:
@@ -35,7 +35,7 @@
 
 [# Projeto 3: Modelo para clusterização de clientes](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Mall_Customers_K_Means_clustering.ipynb)
 
-** Algoritmo de clusterização.
+* Algoritmo de clusterização.
 * Modelo feito com Google Colab - Python.
 
 * Algoritmo usado: K-Means Clustering.

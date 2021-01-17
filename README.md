@@ -38,4 +38,6 @@
 * Algoritmo de clusterização.
 * Modelo feito com Google Colab - Python.
 
+* Para elaborar este modelo realizei:
+	* Elbow method para encontrar a melhor quantidade de clusters.
 * Algoritmo usado: K-Means Clustering.

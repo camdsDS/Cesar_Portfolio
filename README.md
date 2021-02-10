@@ -6,7 +6,7 @@
 * Automação.
 * Modelo feito com Google Colab - Python.
 
-* Envia automaticamente por email (gmail), a partir de uma planilha de excel com notas de alunos, um relatório personalizado para cada responsável de cada aluno. Os emails são todos disparados ao mesmo tempo. Segue um exemplo de email: https://github.com/camdsDS/Cesar_Portfolio/blob/main/Exemplo_email.jpg
+* Envia automaticamente por email (gmail), a partir de uma planilha de excel com notas de alunos, um relatório personalizado para cada responsável de cada aluno. Os emails são todos disparados ao mesmo tempo. Segue um exemplo de email: [imagem] (https://github.com/camdsDS/Cesar_Portfolio/blob/main/Exemplo_email.jpg)
 
  ![](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Exemplo_email.jpg)
 

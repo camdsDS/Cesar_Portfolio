@@ -1,7 +1,18 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/camdsDS)](https://github.com/camdsDS)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camds/)](https://www.linkedin.com/in/camds/)
 
-[# Projeto 1: Modelo preditivo de preço de casas - Kaggle's Competition](https://github.com/camdsDS/Cesar_Portfolio/blob/main/HousePrices_from_Kaggle_RandomForestRegressor.ipynb)
+[# Projeto 1: Automação de envio de emails personalizados - relatórios para professores enviar automaticamente para pais de alunos](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Email_personalizado_com_relat%C3%B3rio_autom%C3%A1tico.ipynb)
+
+* Automação.
+* Modelo feito com Google Colab - Python.
+
+* Esse código possibilita, a partir de uma planilha de excel com notas dos alunos, enviar automaticamente, por email (gmail), um relatório personalizado para cada responsável de cada aluno. Os emails são todos disparados ao mesmo tempo. Segue um exemplo de email:
+
+ ![](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Exemplo_email.jpg)
+
+
+# Projetos de Machine Learning
+[# Projeto_ML 1: Modelo preditivo de preço de casas - Kaggle's Competition](https://github.com/camdsDS/Cesar_Portfolio/blob/main/HousePrices_from_Kaggle_RandomForestRegressor.ipynb)
 
 * Algoritmo de regressão.
 * Modelo feito com Google Colab - Python.
@@ -14,7 +25,7 @@
 	* Divisão da base de dados teste em subgrupo de desenvolvimento e subgrupo de validação (70% e 30%, respectivamente).
 * Algoritmo usado: RandomForestRegressor com GridSearchCV.
 
-[# Projeto 2: Modelo preditivo de sobreviventes do Titanic - Kaggle's Competition](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Titanic_from_kaggle_GradientBoostingClassifier.ipynb)
+[# Projeto_ML 2: Modelo preditivo de sobreviventes do Titanic - Kaggle's Competition](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Titanic_from_kaggle_GradientBoostingClassifier.ipynb)
 
 * Algoritmo de classificação.
 * Modelo feito com Google Colab - Python.
@@ -36,7 +47,7 @@
 	* Apresentação de gráfico (com seaborn) das variáveis utilizadas e os valores que representam respectivamente a importância delas no modelo.
 * Algoritmo usado: GradientBoostingClassifier com GridSearchCV.
 
-[# Projeto 3: Modelo para clusterização de clientes de um shopping](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Mall_Customers_K_Means_clustering.ipynb)
+[# Projeto_ML 3: Modelo para clusterização de clientes de um shopping](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Mall_Customers_K_Means_clustering.ipynb)
 
 * Algoritmo de clusterização.
 * Modelo feito com Google Colab - Python.

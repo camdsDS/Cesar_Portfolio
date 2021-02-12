@@ -1,7 +1,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/camdsDS)](https://github.com/camdsDS)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camds/)](https://www.linkedin.com/in/camds/)
 
-[# Projeto 1: Automação de envio de emails personalizados - relatórios para professores enviar automaticamente para pais de alunos](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Email_personalizado_com_relat%C3%B3rio_autom%C3%A1tico.ipynb)
+[# Projeto 1: Automação na elaboração e no envio de emails personalizados - relatórios personalizados para serem enviados automaticamente por professores para pais de alunos](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Email_personalizado_com_relat%C3%B3rio_autom%C3%A1tico.ipynb)
 
 * Automação.
 * Modelo feito com Google Colab - Python.

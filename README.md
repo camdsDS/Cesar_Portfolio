@@ -53,7 +53,7 @@
 		* Missing;
 		* Transformação de dados categóricos em numéricos (get_dummies);
 		* Normalização de dados (MinMaxScaler).
-	* score: mean_squared_error
+	* Score: mean_squared_error
 	* Divisão da base de dados teste em subgrupo de desenvolvimento e subgrupo de validação (70% e 30%, respectivamente) (train_test_split).
 
 [# Projeto_ML 3: Modelo preditivo de sobreviventes do Titanic - Kaggle's Competition](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Titanic_from_kaggle_GradientBoostingClassifier.ipynb)
@@ -77,7 +77,7 @@
 	* Divisão da base de dados teste em subgrupo de desenvolvimento e subgrupo de validação (80% e 20%, respectivamente) (train_test_split).
 	* Matriz de confusão.
 	* Cross_validate para escolher o melhor modelo entre LogisticRegression, GradientBoostingClassifier e RandomForestClassifier.
-	* score: acurácia.
+	* Score: acurácia.
 	* Apresentação de gráfico (com seaborn) das variáveis utilizadas e os valores que representam respectivamente a importância delas no modelo.
 * Algoritmo usado: GradientBoostingClassifier com GridSearchCV.
 

@@ -59,7 +59,7 @@
 [# Projeto_ML 3: Modelo preditivo de sobreviventes do Titanic - Kaggle's Competition](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Titanic_from_kaggle_GradientBoostingClassifier.ipynb)
 
 * [Link](https://www.kaggle.com/c/titanic) para o desafio do kaggle. Titanic - Machine Learning from Disaster (Start here! Predict survival on the Titanic and get familiar with ML basics).
-* Algoritmo de classificação.
+* Algoritmo de classificação (GradientBoostingClassifier com GridSearchCV).
 * Código em Python.
 
 * Bibliotecas usadas:
@@ -79,15 +79,13 @@
 	* Cross_validate para escolher o melhor modelo entre LogisticRegression, GradientBoostingClassifier e RandomForestClassifier.
 	* Score: acurácia.
 	* Apresentação de gráfico (com seaborn) das variáveis utilizadas e os valores que representam respectivamente a importância delas no modelo.
-* Algoritmo usado: GradientBoostingClassifier com GridSearchCV.
 
 [# Projeto_ML 4: Modelo para clusterização de clientes de um shopping](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Mall_Customers_K_Means_clustering.ipynb)
 
-* Algoritmo de clusterização.
+* Algoritmo de clusterização (K-Means Clustering).
 * Código em Python.
 
 * Os dados do dataset usado para elaborar este modelo são do curso "Machine Learning A-Z™: Hands-On Python & R In Data Science" da Udemy.
 
 * Para elaborar este modelo realizei:
 	* Elbow method para encontrar a melhor quantidade de clusters.
-* Algoritmo usado: K-Means Clustering.

@@ -27,7 +27,7 @@
 * Para elaborar este modelo realizei:
 	* Tratamento de dados:
 		* Missing (com SimpleImputer - strategy='mean');
-		* Divisão do dafaframe principal em outros datafrases de acordo com o tipo de dado: binário, categórico de alta cardinalidade, categórico de baixa cardinalidade e numérico. 
+		* Divisão do dafaframe principal de acordo com o tipo de dado: binário, categórico de alta cardinalidade, categórico de baixa cardinalidade e numérico. 
 		* Transformação de dados categóricos em numéricos (LabelEncoder e get_dummies);
 		* Normalização de dados (MinMaxScaler).
 	* Relatório com as colunas de maior concentração de valores missing.

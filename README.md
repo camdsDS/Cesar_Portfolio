@@ -32,11 +32,11 @@
 		* Normalização de dados (MinMaxScaler).
 	* Relatório com as colunas de maior concentração de valores missing.
 	* Gráfico com a bad rate.
+	* Divisão da base de dados teste em subgrupo de desenvolvimento e subgrupo de validação (70% e 30%, respectivamente) (train_test_split).
 	* Gráfico da curva ROC de desenvolvimento e validação do modelo.
 	* Score de desenvolvimento e validação do modelo usando Acurácia, Gini e Área Curva ROC.
 	* Tabela com a importância das variáveis.
-	* Teste de modelo novo dropando as variáveis menos importantes.
-	* Divisão da base de dados teste em subgrupo de desenvolvimento e subgrupo de validação (70% e 30%, respectivamente) (train_test_split).
+	* Teste de modelo novo dropando as variáveis menos importantes.	
 
 [# Projeto_ML 2: Modelo preditivo de preço de casas - Kaggle's Competition](https://github.com/camdsDS/Cesar_Portfolio/blob/main/HousePrices_from_Kaggle_RandomForestRegressor.ipynb)
 

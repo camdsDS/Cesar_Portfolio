@@ -13,7 +13,33 @@
 
 # Projetos de Machine Learning
 
-[# Projeto_ML 1: Modelo preditivo da probabilidade de um motorista acionar o seguro de automóvel no próximo ano - Kaggle's Competition](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Porto_Seguro_kaggle.ipynb)
+[# Projeto_ML 1: Modelo preditivo de preço de casas - Kaggle's Competition](https://github.com/camdsDS/Cesar_Portfolio/blob/main/HousePrices_GB.ipynb)
+
+* [Link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview) para o desafio do kaggle. House Prices - Advanced Regression Techniques (Predict sales prices and practice feature engineering, RFs, and gradient boosting).
+* Algoritmo de regressão (GradientBoosting com GridSearchCV).
+* Código em Python.
+
+* Bibliotecas usadas:
+	* pandas;
+	* numpy;
+	* seaborn;
+	* warnings;
+	* pandas_profiling;
+	* missingno;
+	* scikit-learn;
+* Para elaborar este modelo realizei:
+	* Relatório Pandas Profiling;
+	* Matriz de correlação de Pearson;
+	* Tabela com importância das variáveis;
+	* Tratamento de dados:
+		* Missing;	
+		* Transformação de dados categóricos em numéricos (get_dummies);
+		* Redução de cardinalidade das features categóricas de alta cardinalidade;
+		* Normalização de dados (MinMaxScaler);
+		* Score: mean_squared_error;
+		* Divisão da base de dados teste em subgrupo de desenvolvimento e subgrupo de validação (70% e 30%, respectivamente) (train_test_split).
+		
+[# Projeto_ML 2: Modelo preditivo da probabilidade de um motorista acionar o seguro de automóvel no próximo ano - Kaggle's Competition](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Porto_Seguro_kaggle.ipynb)
  
 * [Link](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction) para o desafio do kaggle - Porto Seguro’s Safe Driver Prediction (Predict if a driver will file an insurance claim next year). 
 * Algoritmo de classificação (GradientBoostingClassifier com GridSearchCV).
@@ -38,29 +64,7 @@
 	* Tabela com a importância das variáveis.
 	* Teste de modelo novo dropando as variáveis menos importantes.	
 
-[# Projeto_ML 2: Modelo preditivo de preço de casas - Kaggle's Competition](https://github.com/camdsDS/Cesar_Portfolio/blob/main/HousePrices_GB.ipynb)
 
-* [Link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview) para o desafio do kaggle. House Prices - Advanced Regression Techniques (Predict sales prices and practice feature engineering, RFs, and gradient boosting).
-* Algoritmo de regressão (GradientBoosting com GridSearchCV).
-* Código em Python.
-
-* Bibliotecas usadas:
-	* pandas;
-	* numpy;
-	* seaborn;
-	* warnings
-	* pandas_profiling
-	* missingno
-	* scikit-learn;
-* Para elaborar este modelo realizei:
-	* Pandas Profiling
-	* Tratamento de dados:
-		* Missing;
-		* Transformação de dados categóricos em numéricos (get_dummies);
-		* Redução de cardinalidade das features categóricas de alta cardinalidade;
-		* Normalização de dados (MinMaxScaler);
-		* Score: mean_squared_error;
-		* Divisão da base de dados teste em subgrupo de desenvolvimento e subgrupo de validação (70% e 30%, respectivamente) (train_test_split).
 
 [# Projeto_ML 3: Modelo preditivo de sobreviventes do Titanic - Kaggle's Competition](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Titanic_from_kaggle_GradientBoostingClassifier.ipynb)
 

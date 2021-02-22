@@ -15,7 +15,7 @@
 
 [# Projeto_ML 1: Modelo preditivo de preço de casas - Kaggle's Competition](https://github.com/camdsDS/Cesar_Portfolio/blob/main/HousePrices_GB.ipynb)
 
-* [Link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview) para o desafio do kaggle. House Prices - Advanced Regression Techniques (Predict sales prices and practice feature engineering, RFs, and gradient boosting).
+* [Link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview) para o desafio do kaggle: House Prices - Advanced Regression Techniques (Predict sales prices and practice feature engineering, RFs, and gradient boosting).
 * Algoritmo de regressão (GradientBoosting com GridSearchCV).
 * Código em Python.
 
@@ -41,7 +41,7 @@
 		
 [# Projeto_ML 2: Modelo preditivo da probabilidade de um motorista acionar o seguro de automóvel no próximo ano - Kaggle's Competition](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Porto_Seguro_kaggle.ipynb)
  
-* [Link](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction) para o desafio do kaggle - Porto Seguro’s Safe Driver Prediction (Predict if a driver will file an insurance claim next year). 
+* [Link](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction) para o desafio do kaggle: Porto Seguro’s Safe Driver Prediction (Predict if a driver will file an insurance claim next year). 
 * Algoritmo de classificação (GradientBoostingClassifier com GridSearchCV).
 * Código em Python.
 
@@ -68,7 +68,7 @@
 
 [# Projeto_ML 3: Modelo preditivo de sobreviventes do Titanic - Kaggle's Competition](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Titanic_from_kaggle_GradientBoostingClassifier.ipynb)
 
-* [Link](https://www.kaggle.com/c/titanic) para o desafio do kaggle. Titanic - Machine Learning from Disaster (Start here! Predict survival on the Titanic and get familiar with ML basics).
+* [Link](https://www.kaggle.com/c/titanic) para o desafio do kaggle: Titanic - Machine Learning from Disaster (Start here! Predict survival on the Titanic and get familiar with ML basics).
 * Algoritmo de classificação (GradientBoostingClassifier com GridSearchCV).
 * Código em Python.
 

@@ -38,7 +38,31 @@
 	* Tabela com a importância das variáveis.
 	* Teste de modelo novo dropando as variáveis menos importantes.	
 
-[# Projeto_ML 2: Modelo preditivo de sobreviventes do Titanic - Kaggle's Competition](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Titanic_from_kaggle_GradientBoostingClassifier.ipynb)
+[# Projeto_ML 2: Modelo preditivo de preço de casas - Kaggle's Competition](https://github.com/camdsDS/Cesar_Portfolio/blob/main/HousePrices_GB.ipynb)
+
+* [Link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview) para o desafio do kaggle. House Prices - Advanced Regression Techniques (Predict sales prices and practice feature engineering, RFs, and gradient boosting).
+* Algoritmo de regressão (GradientBoosting com GridSearchCV).
+* Código em Python.
+
+* Bibliotecas usadas:
+	* pandas;
+	* numpy;
+	* seaborn;
+	* warnings
+	* pandas_profiling
+	* missingno
+	* scikit-learn;
+* Para elaborar este modelo realizei:
+	* Pandas Profiling
+	* Tratamento de dados:
+		* Missing;
+		* Transformação de dados categóricos em numéricos (get_dummies);
+		* Redução de cardinalidade das features categóricas de alta cardinalidade;
+		* Normalização de dados (MinMaxScaler);
+		* Score: mean_squared_error;
+		* Divisão da base de dados teste em subgrupo de desenvolvimento e subgrupo de validação (70% e 30%, respectivamente) (train_test_split).
+
+[# Projeto_ML 3: Modelo preditivo de sobreviventes do Titanic - Kaggle's Competition](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Titanic_from_kaggle_GradientBoostingClassifier.ipynb)
 
 * [Link](https://www.kaggle.com/c/titanic) para o desafio do kaggle. Titanic - Machine Learning from Disaster (Start here! Predict survival on the Titanic and get familiar with ML basics).
 * Algoritmo de classificação (GradientBoostingClassifier com GridSearchCV).
@@ -62,7 +86,7 @@
 	* Score: acurácia.
 	* Apresentação de gráfico (com seaborn) das variáveis utilizadas e os valores que representam respectivamente a importância delas no modelo.
 
-[# Projeto_ML 3: Modelo para clusterização de clientes de um shopping](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Mall_Customers_K_Means_clustering.ipynb)
+[# Projeto_ML 4: Modelo para clusterização de clientes de um shopping](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Mall_Customers_K_Means_clustering.ipynb)
 
 * Algoritmo de clusterização (K-Means Clustering).
 * Código em Python.

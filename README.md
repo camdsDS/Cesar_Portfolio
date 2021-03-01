@@ -37,36 +37,9 @@
 		* Redução de cardinalidade das features categóricas de alta cardinalidade;
 		* Normalização de dados (MinMaxScaler);
 		* Score: mean_squared_error;
-		* Divisão da base de dados teste em subgrupo de desenvolvimento e subgrupo de validação (70% e 30%, respectivamente) (train_test_split).
-		
-[# Projeto_ML 2: Modelo preditivo da probabilidade de um motorista acionar o seguro de automóvel no próximo ano - Kaggle's Competition](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Porto_Seguro_kaggle.ipynb)
- 
-* [Link](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction) para o desafio do kaggle: Porto Seguro’s Safe Driver Prediction (Predict if a driver will file an insurance claim next year). 
-* Algoritmo de classificação (GradientBoostingClassifier com GridSearchCV).
-* Código em Python.
+		* Divisão da base de dados teste em subgrupo de desenvolvimento e subgrupo de validação (70% e 30%, respectivamente) (train_test_split).	
 
-* Bibliotecas usadas:
-	* pandas;
-	* numpy;
-	* matplotlib.pyplot;
-	* scikit-learn;
-* Para elaborar este modelo realizei:
-	* Tratamento de dados:
-		* Missing (com SimpleImputer - strategy='mean');
-		* Divisão do dafaframe principal de acordo com o tipo de dado: binário, categórico de alta cardinalidade, categórico de baixa cardinalidade e numérico. 
-		* Transformação de dados categóricos em numéricos (LabelEncoder e get_dummies);
-		* Normalização de dados (MinMaxScaler).
-	* Relatório com as colunas de maior concentração de valores missing.
-	* Gráfico com a bad rate.
-	* Divisão da base de dados teste em subgrupo de desenvolvimento e subgrupo de validação (70% e 30%, respectivamente) (train_test_split).
-	* Gráfico da curva ROC de desenvolvimento e validação do modelo.
-	* Score de desenvolvimento e validação do modelo usando Acurácia, Gini e Área Curva ROC.
-	* Tabela com a importância das variáveis.
-	* Teste de modelo novo dropando as variáveis menos importantes.	
-
-
-
-[# Projeto_ML 3: Modelo preditivo de sobreviventes do Titanic - Kaggle's Competition](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Titanic_from_kaggle_GradientBoostingClassifier.ipynb)
+[# Projeto_ML 2: Modelo preditivo de sobreviventes do Titanic - Kaggle's Competition](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Titanic_from_kaggle_GradientBoostingClassifier.ipynb)
 
 * [Link](https://www.kaggle.com/c/titanic) para o desafio do kaggle: Titanic - Machine Learning from Disaster (Start here! Predict survival on the Titanic and get familiar with ML basics).
 * Algoritmo de classificação (GradientBoostingClassifier com GridSearchCV).
@@ -90,7 +63,7 @@
 	* Score: acurácia.
 	* Apresentação de gráfico (com seaborn) das variáveis utilizadas e os valores que representam respectivamente a importância delas no modelo.
 
-[# Projeto_ML 4: Modelo para clusterização de clientes de um shopping](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Mall_Customers_K_Means_clustering.ipynb)
+[# Projeto_ML 3: Modelo para clusterização de clientes de um shopping](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Mall_Customers_K_Means_clustering.ipynb)
 
 * Algoritmo de clusterização (K-Means Clustering).
 * Código em Python.

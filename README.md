@@ -10,7 +10,7 @@
 
  ![](https://github.com/camdsDS/Cesar_Portfolio/blob/main/Exemplo_email.jpg)
 
-[# Projeto 2: ETLs em Python usando SQLAlchemy e Pandas](https://github.com/camdsDS/Cesar_Portfolio/blob/main/ETL%20-%20Portf%C3%B3lio.ipynb)
+[# Projeto 2: ETL em Python usando SQLAlchemy e Pandas](https://github.com/camdsDS/Cesar_Portfolio/blob/main/ETL%20-%20Portf%C3%B3lio.ipynb)
 
 * Neste projeto eu crio dois bancos de dados (um SQL Server de origem e um PostgreSQL de destino) e usuários que acessem esses bancos;
 * Faço a carga de alguns dados no banco de origem via SQL;

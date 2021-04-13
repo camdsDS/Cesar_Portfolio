@@ -15,8 +15,8 @@
 * Neste projeto eu crio dois bancos de dados (um SQL Server de origem e um PostgreSQL de destino) e usuários que acessem esses bancos;
 * Faço a carga de alguns dados no banco de origem via SQL;
 * Escrevo um script em Python que extrai os dados do banco SQL Server usando a biblioteca SQLAlchemy;
-* trato esses dados em Python utilizando a bilioteca Pandas e;
-* realizo a carga no banco PostgreSQL usando a biblioteca SQLAlchemy.
+* Trato esses dados em Python utilizando a bilioteca Pandas e;
+* Realizo a carga no banco PostgreSQL usando a biblioteca SQLAlchemy.
 
 # Projetos de Machine Learning
 

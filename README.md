@@ -39,9 +39,9 @@
 	* Box plot para verificação de possíveis outliers;
 	* Normalização de dados (MinMaxScaler);
 	* Curva ROC;
-	* score com gini, ROC_AUC e acurácia;
+	* Score com gini, ROC_AUC e acurácia;
 	* KFold e cross_val_score para avaliar e selecionar modelo;
-	* gridSearchCV para tunar modelo;
+	* GridSearchCV para tunar modelo;
 	* Matriz de confusão;
 	* Save do modelo com pickle.		
 		
@@ -52,13 +52,13 @@
 * Código em Python.
 
 * Bibliotecas usadas:
-	* pandas;
-	* numpy;
-	* seaborn;
-	* warnings;
-	* pandas_profiling;
-	* missingno;
-	* scikit-learn;
+	* Pandas;
+	* Numpy;
+	* Seaborn;
+	* Warnings;
+	* Pandas_profiling;
+	* Missingno;
+	* Scikit-learn;
 * Para elaborar este modelo realizei:
 	* Relatório Pandas Profiling;
 	* Matriz de correlação de Pearson;
@@ -78,10 +78,10 @@
 * Código em Python.
 
 * Bibliotecas usadas:
-	* pandas;
-	* numpy;
-	* seaborn;
-	* scikit-learn;
+	* Pandas;
+	* Numpy;
+	* Seaborn;
+	* Scikit-learn;
 * Para elaborar este modelo realizei:
 	* Tratamento de dados:
 		* Missing;
